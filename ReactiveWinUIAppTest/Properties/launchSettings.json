@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ReactiveWinUIAppTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ReactiveWinUIAppTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
