@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34407.89
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveWinUILibTest", "ReactiveWinUILibTest\ReactiveWinUILibTest.csproj", "{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveWinUIAppTest", "ReactiveWinUIAppTest\ReactiveWinUIAppTest.csproj", "{80FE0568-2C28-492A-B5CB-C06071F7A76A}"
 EndProject
 Global
@@ -19,22 +17,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Debug|ARM64.ActiveCfg = Debug|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Debug|ARM64.Build.0 = Debug|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Debug|x64.Build.0 = Debug|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Debug|x86.Build.0 = Debug|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Release|ARM64.ActiveCfg = Release|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Release|ARM64.Build.0 = Release|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Release|x64.ActiveCfg = Release|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Release|x64.Build.0 = Release|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Release|x86.ActiveCfg = Release|Any CPU
-		{5C062AF4-0339-4A89-8CEB-7426CF0C0A82}.Release|x86.Build.0 = Release|Any CPU
 		{80FE0568-2C28-492A-B5CB-C06071F7A76A}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{80FE0568-2C28-492A-B5CB-C06071F7A76A}.Debug|Any CPU.Build.0 = Debug|x64
 		{80FE0568-2C28-492A-B5CB-C06071F7A76A}.Debug|Any CPU.Deploy.0 = Debug|x64
